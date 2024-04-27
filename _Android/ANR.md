@@ -7,7 +7,7 @@
 Android 앱의 UI 쓰레드가 너무 오랫동안 차단될 시 ANR 오류가 발생한다.
 아래 그림과 같이 사용자에게 대화상자를 표시하며, 사용자가 앱을 강제종료할 수 있다.
 ```
-![anr.png](..%2F_image%2Fanr.png)
+![anr](https://github.com/woowacourse-study/2024-android-cs-study/assets/85734140/706168e4-1819-4387-82d4-5c8cc69ddb41)
 
 - ANR은 UI 업데이트를 담당하는 앱의 기본 쓰레드가 사용자 입력 이벤트 또는 그림을
   처리하지 못해 사용자 불만을 초래하므로 큰 문제가 된다.
